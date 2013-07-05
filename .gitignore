@@ -1,2 +1,6 @@
+*.gem
+.bundle
 .rake_tasks
+.rvmrc
+Gemfile.lock
 pkg
